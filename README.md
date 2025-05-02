@@ -31,7 +31,6 @@ Enable multiple network interface on the client side. It's essential to establis
 2. Install the tools:
    - iperf3
    - mptcpize
-3. 
 
 ## Test
 
